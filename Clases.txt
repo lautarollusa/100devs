@@ -1,0 +1,66 @@
+100Devs
+
+Clase 1:
+☑ Leer https://www.poetryfoundation.org/poems/51642/invictus
+☑ Watch: https://youtu.be/ukLnPbIffxE
+☑ Watch: https://youtu.be/Z-zNHHpXoMM
+☑ CompleteRead: https://www.coursera.org/learn/learning-how-to-learn Módulo 1
+☑ Anki Cards web dev
+
+Clase 2:
+Read: https://learn.shayhowe.com/html-css/
+Build: HTML for BBC Website (just what is n the attached image)
+USE: https://developer.mozilla.org/en-US/docs/Web/HTML
+
+Clase 3:
+Read: https://learnlayout.com/
+Finish: Labs From Class-03 - BBC, Khan Academy, Tech Crunch
+
+Clase 4:
+Finish Simple Site Lab from class04 (HTML & CSS)
+Read: learnlayout.com
+Do: https://www.typingtest.com/ (Five Minute Test)
+Do: Practice Typing - https://www.keybr.com/
+
+Clase 5:
+Watch (motivation) https://youtu.be/3sK3wJAxGfs
+Do: Complete The Three Layouts (last few slides)
+Read: https://learn.shayhowe.com/advanced-html-css/responsive-web-design/
+Read: https://learn.shayhowe.com/advanced-html-css/
+
+Clase 6:
+Watch before class: https://www.youtube.com/watch?v=7Oxz060iedY&feature=youtu.be
+https://slides.com/leonnoel/100devs2-review-and-responsive
+
+Office-Hours
+Hand & Wrist Exercises: https://youtu.be/EiRC80FJbHU
+Full Body Stretch: https://youtu.be/SsT_go-oCcQ
+Back Exercises That Changed My Life: https://youtu.be/LT_dFRnmdGs
+Also, we keep talking about screen readers, so here they are in action: 
+https://www.youtube.com/watch?v=TiP7aantnvE&feature=youtu.be
+https://www.youtube.com/watch?v=UzffnbBex6c&feature=youtu.be
+
+Clase 7:
+https://slides.com/leonnoel/100devs2-css-responsive-basics
+Do: Make 15 minutes of pain responsive (3 media queries and using floats)
+Read: The Complete Guide To Flexbox
+Read: css-tricks.com/snippets/css/a-guide-to-flexbox
+Do: http://flexboxfroggy.com/
+Watch: Independence Day
+Do: Layout Assignment
+
+
+Clase 8:
+https://slides.com/leonnoel/100devs2-css-responsive-review
+Do: The 3 layouts we did in class
+Do: The Level Ground & Source Layouts in the homework-layout-photos
+Push?: Do Pushwork Homepage and add media queries to other layouts
+
+Clase 9 (Networking):
+https://slides.com/leonnoel/100devs2-networking-night
+https://www.youtube.com/watch?v=_CIJ_44IxRg&feature=youtu.be
+
+Clase 10:
+https://www.youtube.com/watch?v=E9MOhxS46d8&feature=youtu.be
+https://slides.com/leonnoel/100devs-css-review-homework
+https://www.youtube.com/watch?v=hdI2bqOjy3c&feature=youtu.be

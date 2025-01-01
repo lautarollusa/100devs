@@ -1,0 +1,23 @@
+const {
+	NODE_ENV: environment = 'development',
+	NEST_PORT: port = '3000',
+	CORS_ORIGIN: cors_origin = 'http://localhost:4200',
+	OPENAI_API_KEY: open_api_key = ''
+} = process.env
+
+export const EnvConfig = () => ({
+	environment,
+	port,
+	cors_origin,
+	open_api_key,
+});
+
+
+
+field-sizing: content css
+
+universe.io
+
+npx react-scan@latest https://airbnb.com
+
+simulador movil chrome extension
