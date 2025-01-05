@@ -9,7 +9,8 @@ Clase 1:
 
 Clase 2:
 Read: https://learn.shayhowe.com/html-css/
-Build: HTML for BBC Website (just what is n the attached image)
+CompleteRead: https://www.coursera.org/learn/learning-how-to-learn Módulo 2
+Build: HTML for BBC Website (just what is in the attached image)
 USE: https://developer.mozilla.org/en-US/docs/Web/HTML
 
 Clase 3:
@@ -64,3 +65,85 @@ Clase 10:
 https://www.youtube.com/watch?v=E9MOhxS46d8&feature=youtu.be
 https://slides.com/leonnoel/100devs-css-review-homework
 https://www.youtube.com/watch?v=hdI2bqOjy3c&feature=youtu.be
+placekitten.com
+
+Clase 11:
+https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/
+https://www.youtube.com/watch?v=JJSoEo8JSnc&feature=youtu.be
+https://mastery.games/flexboxzombies/
+
+Clase 12:
+Read: https://javascript.info/variables + Tasks
+Read: https://javascript.info/function-basics + Tasks
+Do: Delete the JS and do it again for all assignments
+Do: Something special for yourself this weekend (???)
+Videos Mentioned:
+Many Tamagotchis Were Harmed in the Making of this Presentation: https://www.youtube.com/watch?v=c4PkcZScBV8&feature=youtu.be
+Cool breakdown of some low level code and how a Game Boy actually works: https://www.youtube.com/watch?v=RZUDEaLa5Nw
+Someone really good at reverse engineering (Scanlime): https://www.youtube.com/c/scanlime/videos
+Book - Code: The Hidden Language of Computer Hardware and Software by Charles Petzold
+
+Class 13:
+Read: https://javascript.info/function-expressions + Tasks
+Read: https://javascript.info/arrow-functions-basics + Tasks
+Read: https://github.com/thejsway/thejsway/blob/master/manuscript/chapter04.md
+Do: Delete the JS and do it again for all assignments
+Cool projects shared on stream:
+https://x.com/LeahT2020/status/1495949630697320450
+https://x.com/ThingsMiliMade/status/1495864031982333959
+https://x.com/ComradeGuero/status/1495863328626851848
+https://x.com/DunnTheRightWay/status/1495566278861414404
+https://x.com/snowsneakers_/status/1494875322260488199
+
+Class 14:
+Read: https://poemsspeak.blogspot.com/2016/12/poetry-speaks.html
+COMMENT OUT YOUR JS
+TYPE IT ALL OUT AGAIN WITHOUT LOOKING
+PEAK IF YOU HAVE TOO
+REPEAT UNTIL YOU DO NOT HAVE TO PEAK
+DELETE YOUR JS ENTIRELY
+AND DO IT AGAIN
+THEN DO IT AGAIN BUT CHANGE SOMETHING
+
+Class 15:
+Watch before class: https://www.youtube.com/watch?v=jVkLVRt6c1U&feature=youtu.be
+COMMENT OUT YOUR JS
+TYPE IT ALL OUT AGAIN WITHOUT LOOKING
+PEAK IF YOU HAVE TOO
+REPEAT UNTIL YOU DO NOT HAVE TO PEAK
+DELETE YOUR JS ENTIRELY
+AND DO IT AGAIN
+THEN DO IT AGAIN BUT CHANGE SOMETHING
+Homework: Setup your portfolio
+Do: Drafot your proposal / contract
+
+Class 16:
+Read before class: https://allpoetry.com/poem/8624439-Thinking-by-Walter-D-Wintle
+Read: https://www.poetryfoundation.org/poems/51642/invictus
+Read: https://github.com/thejsway/thejsway (3, 2, 1... Code! through Write Functions)
+Read: https://eloquentjavascript.net/3rd_edition/ (Chapters 1-3)
+Do: https://www.codecademy.com/learn/introduction-to-javascript (1-6)
+Watch: https://www.youtube.com/watch?v=SWYqp7iY_Tc&feature=youtu.be
+Extra Reading: https://jwiegley.github.io/git-from-the-bottom-up/
+Dont Do: Play yo self - start early even though you have more than a week because this is a lot and very important
+
+Class 17:
+Same as class 16
+Project Night
+
+Class 18:
+
+Class 19:
+Read before class: https://mwkworks.com/desiderata.html
+Read: https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md
+Read: https://javascript.info/array-methods
+Read: https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md
+Read: https://eloquentjavascript.net/04_data.html
+Do: Minimum of 1 https://www.codewars.com/ 8 Kyu Fundamentals Track EVERY DAY - 20 mins then look at solution!
+Do: https://javascript30.com/ Dar 04 Array Cardio (super hard, do it on Discord together)
+Check out: https://blog.barbaralaw.me/i-want-to-do-codewars-uh-how-do-i-do-that
+
+Class 20:
+Read: https://poets.org/poem/dreams
+Check out: https://blog.barbaralaw.me/i-want-to-do-codewars-uh-how-do-i-do-that
+Guide on Codewars: https://www.loom.com/share/015bac0dbeb343409bcd27550fa2963a
